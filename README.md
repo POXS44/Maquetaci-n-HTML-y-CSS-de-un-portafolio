@@ -20,3 +20,9 @@ En este otro apartado puedo ver datos adicionales de mis experiencias y contacto
 <img src="img/7.png" />
 
 
+## Recomendaciones
+
+Aqui hablo un poco sobre la importancia de las paginas web y ademas sobre que debemos expresar nuestro pensar , y compartir sobre nuestras experiencias en las creaciones de las paginas web.
+
+<img src="img/8.png" />
+
