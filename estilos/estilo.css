@@ -5,6 +5,11 @@
 .hoja1{
     background-color: rgb(218, 216, 216);
 }
+
+/*Cabe destacar que cree diferentes clases para una buena edicion de las etiquetas de mi pagina web
+ y utilize cada una de ellas en mi index.html */
+
+ /*Aqui hize una aliniacion personalizada de la por decir asi mi portada de la pagina web*/
 .imagen{
     position: relative;;
     top: 300;
@@ -69,3 +74,4 @@
 
     text-align: center;
 }
+
