@@ -1,0 +1,54 @@
+
+
+.hoja1{
+    background-color: rgb(218, 216, 216);
+}
+.imagen{
+    position: relative;;
+    top: 300;
+    left: 25%;
+    width: 50%;
+}
+.letrero{
+    display: block;
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+.pie{
+    color: beige;
+    position: relative;
+    padding: 60px;
+    font-size: 150%;
+    clear: both;
+    text-align: center;
+    margin-top: 30%;
+  background-color: crimson;
+}
+.foto{
+        position: relative;
+    top: 300;
+    left: 42%;
+    width: 100px;
+    width: 18%;
+    height: 300px;
+    border-radius: 150px;
+}
+.hoja2{
+    border: 3px solid gray;
+    }
+.letra{
+    text-align: center;
+    background-color: crimson;
+}
+.lista{
+    border: 3px solid gray;
+    text-align: center;
+}
+.tabla{
+    left: 20%;
+}
+.enunciado{
+    text-align: center;
+    background-color: crimson;
+}
