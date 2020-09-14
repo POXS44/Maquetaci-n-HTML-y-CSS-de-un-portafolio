@@ -26,3 +26,9 @@ Aqui hablo un poco sobre la importancia de las paginas web y ademas sobre que de
 
 <img src="img/8.png" />
 
+## Pie de pagina 
+
+Visualizacion de nuestro pie la pagina web.
+
+<img src="img/9.png" />
+
