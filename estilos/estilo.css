@@ -36,6 +36,8 @@ propiedades ademas de que añadi un background para el fondo de color de mi text
     margin-top: 30%;
   background-color: crimson;
 }
+
+/*Clase para la imagen 2 con la cual le di forma de circulo  a la imagen */
 .poxs44{
         position: relative;
     top: 300;
@@ -45,6 +47,7 @@ propiedades ademas de que añadi un background para el fondo de color de mi text
     height: 300px;
     border-radius: 150px;
 }
+/**/
 .hoja2{
     border: 3px solid gray;
     }
@@ -57,14 +60,17 @@ propiedades ademas de que añadi un background para el fondo de color de mi text
     text-align: center;
     color:white;
 }
+/*Posicion de la tabla*/
 .tabla{
     left: 20%;
 }
+
+/*color de texto y alinear texto*/
 .enunciado{
     text-align: center;
     color:blue;
 }
-
+/*Personalizacion de la imagen 3 sobre mis datos adicionales*/
 .adicionales
 {
     position: relative;
@@ -73,7 +79,7 @@ propiedades ademas de que añadi un background para el fondo de color de mi text
     width: 500px;
     height: 400px;
 }
-
+/*Clase que utilize para centrar diferentes textos*/
 .aditexto{
 
     text-align: center;
