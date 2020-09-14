@@ -32,3 +32,6 @@ Visualizacion de nuestro pie la pagina web.
 
 <img src="img/9.png" />
 
+## Conclusión
+
+He tenido muy bonita experiencia con la creación de este pequeño proyecto web , he aprendido de que debemos compartir el concomiento de manera libre y sin temor con las demas personas porque todos aprendemos de todos .
