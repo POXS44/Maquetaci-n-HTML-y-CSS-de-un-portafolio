@@ -23,6 +23,9 @@
     color:blue;
     text-align: center;
 }
+
+/*Esta clase la utilize en el pie de pagina de  mi web el cual di una posicion exacta con diferentes
+propiedades ademas de que añadi un background para el fondo de color de mi texto entre otras opciones*/
 .pie{
     color: beige;
     position: relative;
